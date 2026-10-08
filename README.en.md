@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/dmety">简体中文 ↗</a> &nbsp; / &nbsp; <b>English</b></p>
+<p align="center"><a href="https://github.com/dmety/dmety/blob/main/README.zh-CN.md">简体中文 ↗</a> &nbsp; / &nbsp; <b>English</b></p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/dmety/dmety/main/assets/header.svg" width="100%" alt="dmety — AI, interfaces and creative experiments" />
