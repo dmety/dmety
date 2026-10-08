@@ -60,6 +60,15 @@ Hi, I'm **dmety**. 我用 **TypeScript / React** 探索 AI 与 Web 交互：让�
 
 <p>还有 <a href="https://github.com/dmety/EcoLife"><b>EcoLife ↗</b></a>：围绕碳足迹记录、垃圾分类与绿色生活的 AI 前端实验。</p>
 
+### / OPEN SOURCE
+
+我也在通过具体的问题修复参与开源。这些 PR 已提交，评审与合并进度以链接中的实时状态为准。
+
+| 项目 | 提交的改动 | 记录 |
+| :--- | :--- | :--- |
+| Microsoft TypeScript | 为 `eval` / `arguments` 类名补充严格模式诊断与回归用例 | [PR #64682 ↗](https://github.com/microsoft/TypeScript/pull/64682) |
+| LangGraph Redis | 修正文档中 RedisSaver 的上下文管理用法 | [PR #207 ↗](https://github.com/redis-developer/langgraph-redis/pull/207) |
+
 ### / TOOLBOX
 
 | 构建界面 | 创造交互 | 接入智能 |
