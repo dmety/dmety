@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://github.com/dmety?tab=repositories">探索项目 ↗</a> &nbsp;·&nbsp;
-  <a href="https://github.com/dmety/Friday">F.R.I.D.A.Y. ↗</a> &nbsp;·&nbsp;
+  <a href="https://github.com/dmety/NeuroLink-Remote">NeuroLink ↗</a> &nbsp;·&nbsp;
   <a href="https://github.com/dmety/Property_Rights_Trading">BlockTrade ↗</a>
 </p>
 
@@ -49,11 +49,11 @@ Hi, I'm **dmety**. 我用 **Java / Python / TypeScript** 探索业务系统、�
       <sub>Python · Ultralytics YOLO · PyTorch</sub>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/dmety/Friday"><img src="./assets/friday.svg" width="100%" alt="F.R.I.D.A.Y." /></a>
+      <a href="https://github.com/dmety/NeuroLink-Remote"><img src="./assets/neurolink.svg" width="100%" alt="NeuroLink" /></a>
       <br /><br />
-      <b><a href="https://github.com/dmety/Friday">F.R.I.D.A.Y. ↗</a></b>
-      <p>钢铁侠灵感的 AI 交互界面。结合实时语音、摄像头视觉输入与科幻 HUD。</p>
-      <sub>React · Gemini Live API · Web Audio</sub>
+      <b><a href="https://github.com/dmety/NeuroLink-Remote">NeuroLink ↗</a></b>
+      <p>赛博风远程控制面板原型：模拟唤醒与关机流程，提供 AI 配置咨询和部署指南。</p>
+      <sub>TypeScript · React · Gemini · UI Prototype</sub>
     </td>
   </tr>
 </table>
@@ -64,7 +64,6 @@ Hi, I'm **dmety**. 我用 **Java / Python / TypeScript** 探索业务系统、�
 | :--- | :--- |
 | [ZenParticles ↗](https://github.com/dmety/-) | 双手操控 3D 粒子，以自然语言探索 AI 生成的粒子形态 · Three.js / MediaPipe / Gemini |
 | [AI 狼人杀法官 ↗](https://github.com/dmety/Werewolf_Kill) | AI 剧情、P2P 联机、自动游戏流程与浏览器语音播报 |
-| [NeuroLink ↗](https://github.com/dmety/NeuroLink-Remote) | 赛博风远程控制面板原型，模拟唤醒与关机流程，提供 AI 配置咨询 |
 | [EcoLife ↗](https://github.com/dmety/EcoLife) | 碳足迹记录、垃圾分类与绿色生活的 AI 前端实验 |
 
 ### / OPEN SOURCE
