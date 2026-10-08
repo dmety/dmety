@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-labelledby="title desc">
+<title id="title">dmety — Creative Developer</title><desc id="desc">A dark futuristic banner with cyan orbital geometry and the words AI, interfaces, experiments.</desc>
+<defs>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#080f1b"/><stop offset="1" stop-color="#12162c"/></linearGradient>
+ <radialGradient id="halo"><stop stop-color="#20dbc9" stop-opacity=".2"/><stop offset="1" stop-color="#20dbc9" stop-opacity="0"/></radialGradient>
+ <linearGradient id="line"><stop stop-color="#4ce3d1"/><stop offset="1" stop-color="#8e8cff"/></linearGradient>
+ <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#8ca6c2" stroke-opacity=".065"/></pattern>
+</defs>
+<rect width="1200" height="400" rx="20" fill="url(#bg)"/><rect width="1200" height="400" rx="20" fill="url(#grid)"/>
+<circle cx="940" cy="200" r="240" fill="url(#halo)"/>
+<path d="M36 72V36H72 M1128 36h36v36 M36 328v36h36 M1128 364h36v-36" fill="none" stroke="#4ce3d1" stroke-opacity=".6"/>
+<g font-family="Consolas, monospace">
+ <text x="76" y="80" font-size="13" letter-spacing="3" fill="#7f95b0">PERSONAL LAB / DMETY</text>
+ <text x="72" y="202" font-family="Segoe UI, Arial, sans-serif" font-size="112" font-weight="700" letter-spacing="-5" fill="#edf5ff">dmety<tspan fill="#4ce3d1">.</tspan></text>
+ <text x="78" y="255" font-size="21" letter-spacing="2" fill="#b1c2da">AI / INTERFACES / EXPERIMENTS</text>
+ <text x="78" y="324" font-size="13" letter-spacing="1.8" fill="#4ce3d1">IMAGINE. BUILD. INTERACT.</text>
+</g>
+<g transform="translate(935 204)" fill="none">
+ <circle r="137" stroke="#33536b" stroke-dasharray="3 9"/>
+ <circle r="110" stroke="#4ce3d1" stroke-opacity=".5"/>
+ <ellipse rx="154" ry="54" transform="rotate(-32)" stroke="url(#line)" stroke-width="1.5"/>
+ <ellipse rx="154" ry="54" transform="rotate(32)" stroke="#8e8cff" stroke-opacity=".75"/>
+ <path d="M0-79 69-40V40L0 79-69 40V-40Z M0-79V79 M-69-40 69 40 M69-40-69 40" stroke="url(#line)" stroke-width="2"/>
+ <circle r="5" fill="#4ce3d1"/>
+ <circle cx="-130" cy="-82" r="5" fill="#8e8cff"/>
+ <circle cx="128" cy="-86" r="5" fill="#4ce3d1"/>
+</g>
+<path d="M76 351H740" stroke="#27354b"/>
+</svg>
