@@ -1,3 +1,5 @@
+<p align="center"><b>简体中文</b> &nbsp; / &nbsp; <a href="https://github.com/dmety/dmety/blob/main/README.en.md">English ↗</a></p>
+
 <p align="center">
   <img src="./assets/header.svg" width="100%" alt="dmety — AI, interfaces and creative experiments" />
 </p>
@@ -15,11 +17,25 @@
 
 ---
 
-### / ABOUT
+### / IDENTITY · 我在构建什么
 
-Hi, I'm **dmety**. 我用 **Java / Python / TypeScript** 探索业务系统、计算机视觉与创意交互：从农业产权交易与确权，到植物病害识别、人体姿态分析，再到能听见声音、感知手势的 Web 界面。
+Hi, I'm **dmety**. 我的项目围绕 **业务系统 × 计算机视觉 × 创意交互** 展开。
 
-这里收录我的个人项目与实验。把多端系统连接起来，也让 AI 与交互创意变成可以体验的作品。
+**连接多端，感知现实，让交互更有想象力。**
+
+| 方向 | 我在探索 | 从作品开始 |
+| :--- | :--- | :--- |
+| 🔗 业务与移动端 | 连接 Android、业务 API、数据库与链上合约，探索交易与确权流程 | [BlockTrade ↗](https://github.com/dmety/Property_Rights_Trading) |
+| 👁️ 计算机视觉 | 将图像、视频和摄像头输入转为检测结果与姿态可视化 | [植物识别 ↗](https://github.com/dmety/plant-disease-detection) · [姿态识别 ↗](https://github.com/dmety/human-pose-demo) |
+| ✨ 创意交互 | 探索 AI 辅助界面、手势交互与科幻风 Web 原型 | [NeuroLink ↗](https://github.com/dmety/NeuroLink-Remote) · [粒子实验 ↗](https://github.com/dmety/-) |
+
+持续构建个人项目，也通过具体的问题修复参与开源。
+
+### / TECH STACK · 技术地图
+
+<img src="./assets/tech-stack.svg" width="100%" alt="技术栈：业务与移动端、计算机视觉、Web 与 AI 交互" />
+
+<sub>这些工具出现在我的公开项目中；点击上方作品链接，可以查看它们如何被使用。</sub>
 
 ### / SELECTED WORK
 
@@ -74,12 +90,6 @@ Hi, I'm **dmety**. 我用 **Java / Python / TypeScript** 探索业务系统、�
 | :--- | :--- | :--- |
 | Microsoft TypeScript | 为 `eval` / `arguments` 类名补充严格模式诊断与回归用例 | [PR #64682 ↗](https://github.com/microsoft/TypeScript/pull/64682) |
 | LangGraph Redis | 修正文档中 RedisSaver 的上下文管理用法 | [PR #207 ↗](https://github.com/redis-developer/langgraph-redis/pull/207) |
-
-### / TOOLBOX
-
-| 业务与移动端 | 计算机视觉 | Web 与 AI 交互 |
-| :--- | :--- | :--- |
-| Java · Spring Boot · Android · MySQL | Python · Ultralytics YOLO · PyTorch · PySide6 | TypeScript · React · Three.js · MediaPipe · Gemini |
 
 <p align="center">
   <img src="./assets/footer.svg" width="100%" alt="Build things that make people curious." />
