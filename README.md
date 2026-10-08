@@ -4,61 +4,68 @@
 
 <p align="center">
   <b>把科幻灵感，写成可以交互的作品。</b><br />
-  Exploring AI, real-time interaction &amp; the creative web.
+  Exploring AI, computer vision &amp; connected systems.
 </p>
 
 <p align="center">
   <a href="https://github.com/dmety?tab=repositories">探索项目 ↗</a> &nbsp;·&nbsp;
   <a href="https://github.com/dmety/Friday">F.R.I.D.A.Y. ↗</a> &nbsp;·&nbsp;
-  <a href="https://github.com/dmety/-">手势粒子实验 ↗</a>
+  <a href="https://github.com/dmety/Property_Rights_Trading">BlockTrade ↗</a>
 </p>
 
 ---
 
 ### / ABOUT
 
-Hi, I'm **dmety**. 我用 **TypeScript / React** 探索 AI 与 Web 交互：让界面听见声音、感知手势，也让想象中的科幻控制台出现在浏览器里。
+Hi, I'm **dmety**. 我用 **Java / Python / TypeScript** 探索业务系统、计算机视觉与创意交互：从农业产权交易与确权，到植物病害识别、人体姿态分析，再到能听见声音、感知手势的 Web 界面。
 
-这里收录我的个人项目与实验。你可以从实时 AI 助手开始，也可以进入粒子世界，看看代码能创造什么。
+这里收录我的个人项目与实验。把多端系统连接起来，也让 AI 与交互创意变成可以体验的作品。
 
 ### / SELECTED WORK
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/dmety/Friday"><img src="./assets/friday.svg" width="100%" alt="01 — F.R.I.D.A.Y. / Voice and vision" /></a>
+      <a href="https://github.com/dmety/Property_Rights_Trading"><img src="./assets/blocktrade.svg" width="100%" alt="农业产权交易 · BlockTrade" /></a>
+      <br /><br />
+      <b><a href="https://github.com/dmety/Property_Rights_Trading">农业产权交易 · BlockTrade ↗</a></b>
+      <p>围绕农业产权交易与确权，连接 Android 客户端、Spring Boot 业务后端与 FISCO BCOS 合约。另含可选 AI 语音 / MCP 服务。</p>
+      <sub>Java · Android · Spring Boot · MySQL · Solidity</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/dmety/plant-disease-detection"><img src="./assets/plant.svg" width="100%" alt="植物病害识别" /></a>
+      <br /><br />
+      <b><a href="https://github.com/dmety/plant-disease-detection">植物病害识别 ↗</a></b>
+      <p>基于 YOLOv8 的桌面识别示例，支持图片、视频和摄像头输入；包含 PySide6 界面、默认模型权重与训练脚本。</p>
+      <sub>Python · YOLOv8 · PySide6 · QtFusion</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/dmety/human-pose-demo"><img src="./assets/pose.svg" width="100%" alt="人体姿态识别" /></a>
+      <br /><br />
+      <b><a href="https://github.com/dmety/human-pose-demo">人体姿态识别 ↗</a></b>
+      <p>独立的计算机视觉演示，包含图片姿态分析与摄像头实时识别脚本，探索关键点检测和姿态可视化。</p>
+      <sub>Python · Ultralytics YOLO · PyTorch</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/dmety/Friday"><img src="./assets/friday.svg" width="100%" alt="F.R.I.D.A.Y." /></a>
       <br /><br />
       <b><a href="https://github.com/dmety/Friday">F.R.I.D.A.Y. ↗</a></b>
       <p>钢铁侠灵感的 AI 交互界面。结合实时语音、摄像头视觉输入与科幻 HUD。</p>
       <sub>React · Gemini Live API · Web Audio</sub>
     </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/dmety/-"><img src="./assets/particles.svg" width="100%" alt="02 — ZenParticles / Gesture and geometry" /></a>
-      <br /><br />
-      <b><a href="https://github.com/dmety/-">ZenParticles ↗</a></b>
-      <p>用双手操控 3D 粒子，以自然语言探索 AI 生成的粒子形态。</p>
-      <sub>Three.js · MediaPipe · Gemini</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/dmety/Werewolf_Kill"><img src="./assets/werewolf.svg" width="100%" alt="03 — AI Werewolf / Stories and multiplayer" /></a>
-      <br /><br />
-      <b><a href="https://github.com/dmety/Werewolf_Kill">AI 狼人杀法官 ↗</a></b>
-      <p>AI 生成剧情，结合 P2P 联机、自动游戏流程与浏览器语音播报。</p>
-      <sub>React · PeerJS / WebRTC · Web Speech</sub>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/dmety/NeuroLink-Remote"><img src="./assets/neurolink.svg" width="100%" alt="04 — NeuroLink / A remote-control interface prototype" /></a>
-      <br /><br />
-      <b><a href="https://github.com/dmety/NeuroLink-Remote">NeuroLink ↗</a></b>
-      <p>赛博风远程控制面板原型：模拟唤醒与关机流程，提供 AI 配置咨询和部署指南。</p>
-      <sub>TypeScript · React · Gemini · UI Prototype</sub>
-    </td>
   </tr>
 </table>
 
-<p>还有 <a href="https://github.com/dmety/EcoLife"><b>EcoLife ↗</b></a>：围绕碳足迹记录、垃圾分类与绿色生活的 AI 前端实验。</p>
+### / CREATIVE LAB
+
+| 实验 | 探索方向 |
+| :--- | :--- |
+| [ZenParticles ↗](https://github.com/dmety/-) | 双手操控 3D 粒子，以自然语言探索 AI 生成的粒子形态 · Three.js / MediaPipe / Gemini |
+| [AI 狼人杀法官 ↗](https://github.com/dmety/Werewolf_Kill) | AI 剧情、P2P 联机、自动游戏流程与浏览器语音播报 |
+| [NeuroLink ↗](https://github.com/dmety/NeuroLink-Remote) | 赛博风远程控制面板原型，模拟唤醒与关机流程，提供 AI 配置咨询 |
+| [EcoLife ↗](https://github.com/dmety/EcoLife) | 碳足迹记录、垃圾分类与绿色生活的 AI 前端实验 |
 
 ### / OPEN SOURCE
 
@@ -71,9 +78,9 @@ Hi, I'm **dmety**. 我用 **TypeScript / React** 探索 AI 与 Web 交互：让�
 
 ### / TOOLBOX
 
-| 构建界面 | 创造交互 | 接入智能 |
+| 业务与移动端 | 计算机视觉 | Web 与 AI 交互 |
 | :--- | :--- | :--- |
-| TypeScript · React · Tailwind CSS | Three.js · MediaPipe · WebRTC | Gemini API · Gemini Live API |
+| Java · Spring Boot · Android · MySQL | Python · Ultralytics YOLO · PyTorch · PySide6 | TypeScript · React · Three.js · MediaPipe · Gemini |
 
 <p align="center">
   <img src="./assets/footer.svg" width="100%" alt="Build things that make people curious." />
