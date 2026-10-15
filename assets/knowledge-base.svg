@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="540" height="200" viewBox="0 0 540 200" role="img" aria-labelledby="title desc">
+<title id="title">Zhixu · Personal Knowledge Base</title>
+<desc id="desc">A source-linked knowledge workspace with connected records and human-reviewed AI suggestions.</desc>
+<defs><radialGradient id="h"><stop stop-color="#ffcb7d" stop-opacity=".14"/><stop offset="1" stop-color="#ffcb7d" stop-opacity="0"/></radialGradient></defs>
+<rect width="540" height="200" rx="12" fill="#0c1322"/><circle cx="423" cy="100" r="133" fill="url(#h)"/>
+<path d="M24 24h20 M24 24v20 M516 176h-20 M516 176v-20" fill="none" stroke="#ffcb7d" stroke-opacity=".6"/>
+<text x="33" y="58" font-family="Consolas,monospace" font-size="13" letter-spacing="2" fill="#ffcb7d">PROJECT / 04</text>
+<text x="32" y="111" font-family="Segoe UI,Arial,sans-serif" font-size="30" font-weight="600" fill="#edf5ff">Zhixu</text>
+<text x="33" y="140" font-family="Segoe UI,Arial,sans-serif" font-size="16" fill="#c4d2e5">Personal Knowledge Base</text>
+<text x="34" y="170" font-family="Consolas,monospace" font-size="11" letter-spacing="1.1" fill="#8c9eb7">CAPTURE / CONNECT / REVIEW</text>
+<g fill="none" stroke="#ffcb7d" stroke-width="1.5" opacity=".85">
+<path d="m400 98-45-36 M400 98l59-39 M400 98l69 40 M400 98l-47 50"/>
+<rect x="379" y="74" width="42" height="48" rx="6" fill="#17202d"/>
+<path d="M389 88h22 M389 98h22 M389 108h14"/>
+<circle cx="355" cy="62" r="12" fill="#17202d"/><circle cx="459" cy="59" r="12" fill="#17202d"/>
+<circle cx="469" cy="138" r="12" fill="#17202d"/><circle cx="353" cy="148" r="12" fill="#17202d"/>
+<path d="m463 138 4 4 8-9"/>
+</g></svg>

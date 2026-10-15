@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://github.com/dmety?tab=repositories">探索项目 ↗</a> &nbsp;·&nbsp;
-  <a href="https://github.com/dmety/NeuroLink-Remote">NeuroLink ↗</a> &nbsp;·&nbsp;
+  <a href="https://github.com/dmety/Personal-knowledge-base">知序 · 个人知识库 ↗</a> &nbsp;·&nbsp;
   <a href="https://github.com/dmety/Property_Rights_Trading">BlockTrade ↗</a>
 </p>
 
@@ -27,13 +27,13 @@ Hi, I'm **dmety**. 我的项目围绕 **业务系统 × 计算机视觉 × 创�
 | :--- | :--- | :--- |
 | 🔗 业务与移动端 | 连接 Android、业务 API、数据库与链上合约，探索交易与确权流程 | [BlockTrade ↗](https://github.com/dmety/Property_Rights_Trading) |
 | 👁️ 计算机视觉 | 将图像、视频和摄像头输入转为检测结果与姿态可视化 | [植物识别 ↗](https://github.com/dmety/plant-disease-detection) · [姿态识别 ↗](https://github.com/dmety/human-pose-demo) |
-| ✨ 创意交互 | 探索 AI 辅助界面、手势交互与科幻风 Web 原型 | [NeuroLink ↗](https://github.com/dmety/NeuroLink-Remote) · [粒子实验 ↗](https://github.com/dmety/-) |
+| ✨ 创意交互 | 构建带 AI 建议审核的个人知识工作流，探索手势交互与创意 Web 实验 | [知序 · 个人知识库 ↗](https://github.com/dmety/Personal-knowledge-base) · [粒子实验 ↗](https://github.com/dmety/-) |
 
 持续构建个人项目，也通过具体的问题修复参与开源。
 
 ### / TECH STACK · 技术地图
 
-<img src="./assets/tech-stack.svg" width="100%" alt="技术栈：业务与移动端、计算机视觉、Web 与 AI 交互" />
+<img src="./assets/tech-stack.svg" width="100%" alt="技术栈：业务与移动端、计算机视觉、Web 交互、云端与知识工作流" />
 
 <sub>这些工具出现在我的公开项目中；点击上方作品链接，可以查看它们如何被使用。</sub>
 
@@ -65,11 +65,11 @@ Hi, I'm **dmety**. 我的项目围绕 **业务系统 × 计算机视觉 × 创�
       <sub>Python · Ultralytics YOLO · PyTorch</sub>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/dmety/NeuroLink-Remote"><img src="./assets/neurolink.svg" width="100%" alt="NeuroLink" /></a>
+      <a href="https://github.com/dmety/Personal-knowledge-base"><img src="./assets/knowledge-base.svg" width="100%" alt="知序 · 个人知识库" /></a>
       <br /><br />
-      <b><a href="https://github.com/dmety/NeuroLink-Remote">NeuroLink ↗</a></b>
-      <p>赛博风远程控制面板原型：模拟唤醒与关机流程，提供 AI 配置咨询和部署指南。</p>
-      <sub>TypeScript · React · Gemini · UI Prototype</sub>
+      <b><a href="https://github.com/dmety/Personal-knowledge-base">知序 · 个人知识库 ↗</a></b>
+      <p>可自部署的个人知识库，支持来源追溯、关键词检索、知识关系图、附件与备份；配套 Codex 技能插件辅助收集草稿和提出整理建议，由用户逐项审核。</p>
+      <sub>TypeScript · React · Cloudflare D1/R2 · Drizzle ORM · MCP</sub>
     </td>
   </tr>
 </table>

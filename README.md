@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://github.com/dmety?tab=repositories">Explore projects ↗</a> &nbsp;·&nbsp;
-  <a href="https://github.com/dmety/NeuroLink-Remote">NeuroLink ↗</a> &nbsp;·&nbsp;
+  <a href="https://github.com/dmety/Personal-knowledge-base">Zhixu · Knowledge Base ↗</a> &nbsp;·&nbsp;
   <a href="https://github.com/dmety/Property_Rights_Trading">BlockTrade ↗</a>
 </p>
 
@@ -27,13 +27,13 @@ Hi, I'm **dmety**. My projects explore **business systems × computer vision × 
 | :--- | :--- | :--- |
 | 🔗 Systems & mobile | Connecting Android, business APIs, databases and blockchain contracts for trading and ownership workflows | [BlockTrade ↗](https://github.com/dmety/Property_Rights_Trading) |
 | 👁️ Computer vision | Turning images, video and camera input into detection results and pose visualizations | [Plant detection ↗](https://github.com/dmety/plant-disease-detection) · [Pose detection ↗](https://github.com/dmety/human-pose-demo) |
-| ✨ Creative interaction | Exploring AI-assisted interfaces, gesture interaction and sci-fi-inspired web prototypes | [NeuroLink ↗](https://github.com/dmety/NeuroLink-Remote) · [Particle experiments ↗](https://github.com/dmety/-) |
+| ✨ Creative interaction | Building personal knowledge workflows with AI-assisted review, alongside gesture interaction and creative web experiments | [Zhixu · Knowledge Base ↗](https://github.com/dmety/Personal-knowledge-base) · [Particle experiments ↗](https://github.com/dmety/-) |
 
 Building personal projects and contributing targeted fixes to open source.
 
 ### / TECH STACK · TOOLS IN MY PROJECTS
 
-<img src="https://raw.githubusercontent.com/dmety/dmety/main/assets/tech-stack.svg" width="100%" alt="Technology stack: systems and mobile, computer vision, web and AI interaction" />
+<img src="https://raw.githubusercontent.com/dmety/dmety/main/assets/tech-stack.svg" width="100%" alt="Technology stack: systems and mobile, computer vision, web interaction, cloud and knowledge workflows" />
 
 <sub>These tools appear in my public projects. Follow the project links above to see how they are used.</sub>
 
@@ -65,11 +65,11 @@ Building personal projects and contributing targeted fixes to open source.
       <sub>Python · Ultralytics YOLO · PyTorch</sub>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/dmety/NeuroLink-Remote"><img src="https://raw.githubusercontent.com/dmety/dmety/main/assets/neurolink.svg" width="100%" alt="NeuroLink" /></a>
+      <a href="https://github.com/dmety/Personal-knowledge-base"><img src="https://raw.githubusercontent.com/dmety/dmety/main/assets/knowledge-base.svg" width="100%" alt="Zhixu · Knowledge Base" /></a>
       <br /><br />
-      <b><a href="https://github.com/dmety/NeuroLink-Remote">NeuroLink ↗</a></b>
-      <p>A cyber-inspired remote-control UI prototype with simulated wake/shutdown flows, AI configuration assistance and deployment guidance.</p>
-      <sub>TypeScript · React · Gemini · UI Prototype</sub>
+      <b><a href="https://github.com/dmety/Personal-knowledge-base">Zhixu · Knowledge Base ↗</a></b>
+      <p>A self-hosted knowledge workspace with source-linked search, knowledge graphs, attachments and backups. A companion Codex skills plugin supports AI drafts and organization suggestions for human review.</p>
+      <sub>TypeScript · React · Cloudflare D1/R2 · Drizzle ORM · MCP</sub>
     </td>
   </tr>
 </table>
